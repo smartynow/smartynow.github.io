@@ -45,12 +45,14 @@ _2008 – 2013_
 **Key subjects:** algorithms, process automation, fundamentals of programming
 
 ### Additional Education:
-#### Courses on Udemy: _(2022 – 2025)_
-- [Web Developer Bootcamp](https://www.udemy.com/course/webdeveloper/)
-- [JavaScript + React – From Zero to Results](https://www.udemy.com/course/javascript_full/)
-- [WordPress Theme and Plugin Development](https://www.udemy.com/course/cms-wordpress/)
-- [Git & GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
-- [CSS – The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+#### Courses on Udemy: _(2022 – Present)_
+- [WEB-developer](https://www.udemy.com/course/webdeveloper/)
+- [Full course of Javascript + React - from zero to result](https://www.udemy.com/course/javascript_full/)
+- [Designing layout and creating themes using CMS WordPress](https://www.udemy.com/course/cms-wordpress/)
+- [All WordPress and PHP. How to create websites, themes and plugins.](https://www.udemy.com/course/all-wordpress/)
+- [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+- [CSS - The Complete Guide 2024 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+- [Unlock WordPress Power: Build Themes, Plugins & FSE Sites.](https://www.udemy.com/course/unlock-wordpress-power-build-themes-plugins-fse-sites/)
 #### Courses on Codecademy: _(2024 – 2025)_
 - [Learn jQuery](https://www.codecademy.com/enrolled/courses/learn-jquery)
 
