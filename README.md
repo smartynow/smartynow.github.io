@@ -41,7 +41,7 @@ Transition to a **JavaScript Developer** position with a strong interest in crea
 #### Donetsk Institute of Railway Transport
 _2008 – 2013_  
 **Specialist in Automation and Automation in Transport (with honors)**
-- **Key subjects:** algorithms, process automation, fundamentals of programming
+**Key subjects:** algorithms, process automation, fundamentals of programming
 
 ### Additional Education:
 #### Courses on Udemy: _(2022 – 2025)_
