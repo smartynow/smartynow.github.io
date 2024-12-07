@@ -53,7 +53,7 @@ _2008 – 2013_
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 - [CSS - The Complete Guide 2024 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 - [Unlock WordPress Power: Build Themes, Plugins & FSE Sites.](https://www.udemy.com/course/unlock-wordpress-power-build-themes-plugins-fse-sites/)
-#### Courses on Codecademy: _(2024 – 2025)_
+#### Courses on Codecademy: _(2024)_
 - [Learn jQuery](https://www.codecademy.com/enrolled/courses/learn-jquery)
 
 ### Additional Information:
