@@ -29,37 +29,48 @@ Transition to a **JavaScript Developer** position with a strong interest in crea
 #### [Minimalist Calendar](https://github.com/smartynow/minimalist-calendar)
 
 Description: A lightweight, customizable calendar component built with vanilla JavaScript and CSS.
+
 Features:
-•	Date selection and month navigation for intuitive use.
-•	Fully responsive design, adapting seamlessly to various screen sizes.
-•	Customization options for styles, text, and behavior via an options object.
-•	Multi-language support with localization features (default: English).
-•	Integration with forms through a hidden input field that updates with the selected date.
+- Date selection and month navigation for intuitive use.
+- Fully responsive design, adapting seamlessly to various screen sizes.
+- Customization options for styles, text, and behavior via an options object.
+- Multi-language support with localization features (default: English).
+- Integration with forms through a hidden input field that updates with the selected date.
 
 My Role: Developed the project entirely from scratch, including its functionality, design, and customization features.
+
 Technologies: JavaScript (ES6), CSS3.
+
 Outcome: Delivered a versatile tool suitable for integration into any web application, with clear instructions for installation and customization.
 
 #### [Custom Image Slider](https://github.com/smartynow/custom-image-slider)
 
 Description: A WordPress plugin that enables users to add and manage image sliders directly from the post or page edit screen.
+
 Features:
-•	Image selection via the WordPress Media Library.
-•	Drag-and-drop functionality for reordering images.
-•	Intuitive interface for adding and removing images.
-•	Automatic saving of slider images as post metadata.
+- Image selection via the WordPress Media Library.
+- Drag-and-drop functionality for reordering images.
+- Intuitive interface for adding and removing images.
+- Automatic saving of slider images as post metadata.
 
 My Role: Designed and implemented the entire plugin, including its back-end integration and user interface within the WordPress admin panel.
+
 Technologies: PHP, JavaScript, WordPress API.
+
 Outcome: Streamlined the process of managing image sliders, offering a user-friendly solution for WordPress users.
+
 Next Steps: Planned improvements include front-end display functionality, global configuration settings, and advanced slider behaviors such as autoplay and transition effects.
 
 #### [Architecture Consultant Landing Page](https://architecture-consultant-landing-page.netlify.app/)
 
 Description: A landing page for an architecture consulting firm, designed to showcase services in a clean, modern layout.
+
 My Role: Full-stack development of the page, including responsive design, coding, and deployment.
+
 Technologies: HTML5, SCSS, JavaScript.
+
 Link: [Source Code](https://github.com/smartynow/architecture-consultant-landing-page)
+
 Outcome: Delivered a polished, fully responsive landing page optimized for user experience and accessibility. The page achieved high performance and usability scores on Lighthouse.
 
 ### Work Experience:
