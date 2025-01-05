@@ -54,11 +54,12 @@ Technologies: PHP, JavaScript, WordPress API.
 Outcome: Streamlined the process of managing image sliders, offering a user-friendly solution for WordPress users.
 Next Steps: Planned improvements include front-end display functionality, global configuration settings, and advanced slider behaviors such as autoplay and transition effects.
 
-#### [Architecture Consultant Landing Page](https://github.com/smartynow/architecture-consultant-landing-page)
+#### [Architecture Consultant Landing Page](https://architecture-consultant-landing-page.netlify.app/)
 
 Description: A landing page for an architecture consulting firm, designed to showcase services in a clean, modern layout.
 My Role: Full-stack development of the page, including responsive design, coding, and deployment.
 Technologies: HTML5, SCSS, JavaScript.
+Link: [Source Code](https://github.com/smartynow/architecture-consultant-landing-page)
 Outcome: Delivered a polished, fully responsive landing page optimized for user experience and accessibility. The page achieved high performance and usability scores on Lighthouse.
 
 ### Work Experience:
